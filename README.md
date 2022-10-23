@@ -10,4 +10,3 @@
 <br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=toledopaulo&theme=dark)](https://github.com/toledopaulo/)
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rjt2naf6md44yid5ih5rpafxc&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
