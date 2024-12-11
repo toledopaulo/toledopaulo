@@ -1,8 +1,8 @@
-<h3>Hi, I'm Paulo 👋</h3>
+<h3>Olá, eu sou o Paulo 👋</h3>
 
 
 
-🇧🇷 <strong>Graduando em Sistemas de Informação (3° período), atualmente morando no Rio de Janeiro</strong><br>
+🇧🇷 <strong>Graduando em Sistemas de Informação (5° período), entusiasta de dados e automação</strong><br>
   
 ![](https://komarev.com/ghpvc/?username=toledopaulo)
 [![Linkedin](https://img.shields.io/badge/-toledopaulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-toledo-578a0a212/)](https://www.linkedin.com/in/paulo-toledo-578a0a212/)
